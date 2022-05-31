@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Titan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi there, I'm Krisna Satriadi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html)
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&show_icons=true&count_private=true&line_height=33.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichungelo&hide=html)
+![ichungelo github stats](https://github-readme-stats.vercel.app/api?username=ichungelo&show_icons=true&count_private=true&line_height=33.5)
 
 <br />
 
